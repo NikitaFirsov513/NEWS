@@ -1,0 +1,21 @@
+@font-face{
+    font-family: 'Gotham-Regular';
+    src: url('../fonts/Gothampro-master/GothamPro/GothamPro.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'Gotham-SemiBold';
+    src: url('../fonts/Gothampro-master/GothamPro-Bold/GothamPro-Bold.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Gotham-Italic';
+    src: url('../fonts/Gothampro-master/GothamPro-Italic/GothamPro-Italic.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'Playfair-Regular';
+    src: url('../fonts/Playfair-Display/PlayfairDisplay-Regular.ttf') format('truetype');
+}
+
+
+
